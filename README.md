@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 # Screenshot
-[]{"https://i.ibb.co/pW9h1rx/Screenshot-from-2022-07-21-09-05-24.png"}
+[](https://i.ibb.co/pW9h1rx/Screenshot-from-2022-07-21-09-05-24.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
